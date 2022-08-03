@@ -32290,7 +32290,7 @@ if(p<q){k=j.no(p)
 if(s.$2(a,k)>0){B.b.l(j.b,b,k)
 b=p}}B.b.l(j.b,b,a)}}
 A.AS.prototype={
-P(a,b){return new A.rJ(B.BG,"Flutter Demo",A.a8b(null,B.eB),!1,null)}}
+P(a,b){return new A.rJ(B.BG,"Econ Study Helper",A.a8b(null,B.eB),!1,null)}}
 A.AT.prototype={
 P(a,b){var s,r,q=null,p=A.agJ(q,A.agI(B.xu),q,new A.QL(),q),o=t.G,n=A.a([A.a3F(A.a([A.a3O(A.uB("About",A.lz(q,q,B.j,q,q,q,q,q,q,q,q,18,q,q,q,q,!0,q,q,q,q,q,q,q,q)),new A.QM()),A.a3O(A.uB("My Account",A.lz(q,q,B.j,q,q,q,q,q,q,q,q,18,q,q,q,q,!0,q,q,q,q,q,q,q,q)),new A.QN()),A.a3O(A.uB("More",A.lz(q,q,B.j,q,q,q,q,q,q,q,q,18,q,q,q,q,!0,q,q,q,q,q,q,q,q)),new A.QO())],o),B.dP,B.eA)],o),m=A.a6D(A.a73(new A.QP(),10,B.ah),1),l=A.a6D(A.a73(new A.QQ(),10,B.ah),3)
 $.a4W()
